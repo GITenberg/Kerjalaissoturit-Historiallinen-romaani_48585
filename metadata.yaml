@@ -1,4 +1,5 @@
 _repo: Kerjalaissoturit-Historiallinen-romaani_48585
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Forsman, Kaarlo
@@ -7,12 +8,17 @@ contributor:
     deathdate: 1918
     gutenberg_agent_id: '7957'
     url: http://www.gutenberg.org/2009/agents/7957
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Liefde, J. B. de
     gutenberg_agent_id: '44867'
     url: http://www.gutenberg.org/2009/agents/44867
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48585#Kerjalaissoturit-Historiallinen-romaani
 gutenberg_issued: '2015-03-26'
 gutenberg_type: Text
 identifiers:
